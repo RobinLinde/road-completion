@@ -1,4 +1,4 @@
-import{c as t,m as e,a as n}from"./index.80b44d95.js";var i=t((function(t,n){
+import{c as t,m as e,a as n}from"./index.cf95bea5.js";var i=t((function(t,n){
 /*!
  * Chart.js v2.9.4
  * https://www.chartjs.org
