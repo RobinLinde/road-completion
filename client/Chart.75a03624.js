@@ -1,4 +1,4 @@
-import{c as t,m as e,a as n}from"./index.fb3456a2.js";
+import{c as t,m as e,a as n}from"./index.c6006240.js";
 /*!
  * Chart.js v2.9.4
  * https://www.chartjs.org
